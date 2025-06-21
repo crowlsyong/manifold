@@ -769,7 +769,7 @@ curl -X POST https://api.manifold.markets/v0/bet \
     "contractId": "CONTRACT_ID_HERE",
     "outcome": "YES",
     "limitProb": 0.70,
-    "expiresAt": 2135689600000
+    "expiresMillisAfter": 86400000
   }'
 ```
 
